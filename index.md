@@ -8,7 +8,7 @@ This is my page. It's not perfect, but it's my own. You may like it, or you may 
 ![Alt text](http://i1238.photobucket.com/albums/ff482/heathgk/LizLemonhighfive.gif)
 
 ###These are my "blarg" posts:
-* [First days at the Iron Yard](2014/09/22.html)
+* [First days at the Iron Yard](2014/09/22/First-Days.html)
 
 
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a  designer, and publish. After your page is generated you canc heck out the new branch.
