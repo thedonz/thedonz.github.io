@@ -1,4 +1,16 @@
 ---
+layout: default
+---
+#"Welcome to your doom!"
+
+This is my page. It's not perfect, but it's my own. You may like it, or you may not. I'll give you a high five either way!
+
+![Alt text](http://i1238.photobucket.com/albums/ff482/heathgk/LizLemonhighfive.gif)
+
+###These are my "blarg" posts:
+* [First days at the Iron Yard](2014/09/22/First-Days.html)
+
+
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a  designer, and publish. After your page is generated you canc heck out the new branch.
 
 	$cd your_repo_root/repo_name
@@ -19,6 +31,6 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 
 You can [@mention](https://github.com/blog/821) a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub profile. For example: In 2007, Chris Wanstrath ([@defunkt](https://github.com/defunkt)), PJ Hyett ([@pjhyett](https://github.com/pjhyett)), and Tom Preston-Werner ([@mojombo](http://github.com/mojombo)) founded GitHub.
 
+###Support or Contact
 
----
-
+Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact [support@github.com](mailto:support@github.com) and we'll help you sort it out. 
