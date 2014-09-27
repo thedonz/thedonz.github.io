@@ -19,6 +19,12 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 
 You can [@mention](https://github.com/blog/821) a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub profile. For example: In 2007, Chris Wanstrath ([@defunkt](https://github.com/defunkt)), PJ Hyett ([@pjhyett](https://github.com/pjhyett)), and Tom Preston-Werner ([@mojombo](http://github.com/mojombo)) founded GitHub.
 
+###Support or Contact
+
+Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact [support@github.com](mailto:support@github.com) and we'll help you sort it out. 
+
+
+
 
 ---
 
