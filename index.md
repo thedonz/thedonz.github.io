@@ -21,6 +21,7 @@ I'll be chronicling my journey through **The Iron Yard** in part, on this blog.
 * [Checkpoint: First Week!](2014/09/26/Checkpoint.html)
 
 * * * 
+
 ###Links to my GitHub Repositories:
 
 * [xdonze.github.io](https://github.com/xdonze/xdonze.github.io)
