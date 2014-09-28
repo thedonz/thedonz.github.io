@@ -8,7 +8,7 @@ You may not like it, but I'll still high-five you!
 
 ![Alt text](http://i1238.photobucket.com/albums/ff482/heathgk/LizLemonhighfive.gif)
 
-* [About Me!](link)
+* [About Me!](about.html)
 * [Twitter](http://www.twitter.com/thedonz)
 * [Tumblr](http://www.tumblr.com/thedonz)
 
