@@ -10,7 +10,7 @@ You may not like it, but I'll still high-five you!
 
 * [About Me!](about.html)
 * [Twitter](http://www.twitter.com/thedonz)
-* [Tumblr](http://www.tumblr.com/thedonz)
+* [Tumblr](http://thedonz.tumblr.com)
 
 ###The Chronicle:
 
