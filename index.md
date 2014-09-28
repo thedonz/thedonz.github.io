@@ -13,4 +13,5 @@ You may not like it, but I'll still high-five you!
 I'll be chronicling my journey through **The Iron Yard** in part, on this blog. 
 
 * [First Day](2014/09/22/First-Day.html)
+* [Mid Week Madness](2014/09/22/Midweek-Madness.html)
 
