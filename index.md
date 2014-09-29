@@ -3,7 +3,7 @@
 #Welcome to your doom!!
 
 This is my site.  
-It may not be perfect, but it's a work-in-progress. 
+It may not be perfect, but it's a work-in-progress.  
 Hope you'll learn something too!  
 High-five! 
 
