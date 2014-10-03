@@ -1,6 +1,11 @@
 ---
+layout: default
 
-#Hola! Bonjour! Hallo! 
+title: About Me
+---
+
+
+#Oh, Hai! Hola! Bonjour! Hallo! 
 
 ###My name is Carlos and I like building stuff
 

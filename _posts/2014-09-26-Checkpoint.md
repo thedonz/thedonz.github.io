@@ -1,4 +1,8 @@
 ---
+layout: default
+
+title: Post 2 Checkpoint: Git-tastic
+---
 
 #Checkpoint: Git-tastic
 

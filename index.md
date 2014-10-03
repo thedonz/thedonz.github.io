@@ -1,4 +1,8 @@
 ---
+layout: default
+
+title: Donze's Domain
+---
 
 #Welcome to your doom!!
 
