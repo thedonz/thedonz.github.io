@@ -1,4 +1,11 @@
 ---
+<<<<<<< HEAD
+=======
+layout: default
+
+title: Post 2 Midweek Madness
+---
+>>>>>>> theme/Tester
 
 #The (g)IT Crowd
 
