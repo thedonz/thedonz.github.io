@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Post 3 Checkpoint: Git-tastic
+title: "Post 3 Checkpoint: Git-tastic"
 ---
 
 #Checkpoint: Git-tastic
