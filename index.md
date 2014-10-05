@@ -27,6 +27,12 @@ I'll be chronicling my journey through **The Iron Yard** in part, on this blog.
 
 * * * 
 
+####Week Three
+
+* [OMG Week Three!!](2014/10/05/OMG-Week-Three.html)
+
+* * * 
+
 ###Links to my GitHub Repositories:
 
 * [xdonze.github.io](https://github.com/xdonze/xdonze.github.io)
