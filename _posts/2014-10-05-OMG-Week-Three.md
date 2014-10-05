@@ -6,7 +6,7 @@ title: "Post 4 - OMG Week Three!"
 
 #OMG Week Three!
 
-5th October 2014
+*5th October 2014*
 
 Taking a moment to come up to the surface for a quick blog post. Learning JavaScript has been a huge uphill battle — no that’s an understatement — it’s ridiculously hard. But nothing worth doing is ever easy and I feel that the changes that are happening on a subconscious level are going to allow me to plow through The Wall. The rapid-fire nature of a bootcamp forces your mind to adapt quickly to the difficulty of the task at hand. 
 

@@ -6,6 +6,8 @@ title: "Post 3 Checkpoint: Git-tastic"
 
 #Checkpoint: Git-tastic
 
+*26 September 2014*
+
 The first week has been an unforgiving, deep-dive into the world of command-line ninjitsu and git wrangling.
 
 As humans, learning new things is not as easy as inputting `CTRL + S`, so repetition then becomes our daily companion.

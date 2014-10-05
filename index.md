@@ -25,8 +25,6 @@ I'll be chronicling my journey through **The Iron Yard** in part, on this blog.
 * [Mid Week Madness](2014/09/24/Midweek-Madness.html)
 * [Checkpoint: First Week!](2014/09/26/Checkpoint.html)
 
-* * * 
-
 ####Week Three
 
 * [OMG Week Three!!](2014/10/05/OMG-Week-Three.html)
