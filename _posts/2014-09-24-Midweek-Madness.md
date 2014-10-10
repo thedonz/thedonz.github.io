@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Post 2 Midweek Madness
+title: Post 2 - Midweek Madness
 ---
 
 #The (g)IT Crowd
