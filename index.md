@@ -28,6 +28,7 @@ I'll be chronicling my journey through **The Iron Yard** in part, on this blog.
 ####Week Three
 
 * [OMG Week Three!!](2014/10/05/OMG-Week-Three.html)
+* [Foo On, Bar Off!](2014/10/07/Foo-On-Bar-Off.html)
 
 * * * 
 
