@@ -33,7 +33,11 @@ I'll be chronicling my journey through **The Iron Yard** in part, on this blog.
 
 ####Week Five
 
-* **NEW**[Sweet Tests!!](sweet_test.html)
+* [Sweet Tests!!](sweet_test.html)
+
+####Week Eight
+
+* **NEW**["You Can Learn Anything"](2014/11/10/You-Can-Learn-Anything.html)
 
 * * * 
 
