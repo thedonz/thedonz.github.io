@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Carlos Donze | Front-End Goodness
-subtitle: "That's no moon...."
-description: This is my professional blog, wherein I shall display skill in the art of Front-End Web Development.
-author: Carlos Donze
+title: Carlos Donze | Front End Goodies!
+subtitle: "That's no moon..."
+description: The web development work of Carlos Donze
+author: Carlos Donze (@thedonz)
 email:
 language: English
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: thedonz.github.io
+url: http://thedonz.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
