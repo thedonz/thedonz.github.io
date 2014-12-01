@@ -8,7 +8,7 @@ footer {
 }
 
 header {
-  background-image:url(http://127.0.0.1:49666/header_blog.jpg);
+  background-image:url(/header_blog.jpg);
   height: 400px;
   background-size: cover;
 }
@@ -20,17 +20,25 @@ header {
 
 
 article {
-  color: red;
   margin-left: 20em;
 }
 
 aside {
-  float: left;
+  /* float: left; */
   width: 25%;
-  
+  margin-top: -5em;
 }
 
 div {
   max-width: 1060px;
   
+}
+
+aside img {
+  border-radius: 50%;
+  border: white solid 4pt
+}
+
+body {
+  margin: 0;
 }
