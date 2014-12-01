@@ -9,4 +9,5 @@ footer {
 
 header {
   background-image:url(http://127.0.0.1:49666/header_blog.jpg);
+  height: 400px;
 }
