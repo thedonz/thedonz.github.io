@@ -10,4 +10,27 @@ footer {
 header {
   background-image:url(http://127.0.0.1:49666/header_blog.jpg);
   height: 400px;
+  background-size: cover;
+}
+
+.main {
+  margin-left: 12em;
+}
+
+
+
+article {
+  color: red;
+  margin-left: 20em;
+}
+
+aside {
+  float: left;
+  width: 25%;
+  
+}
+
+div {
+  max-width: 1060px;
+  
 }
