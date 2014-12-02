@@ -20,7 +20,6 @@ header {
 
 
 article {
-  margin-left: 20em;
 }
 
 aside {
@@ -41,4 +40,8 @@ aside img {
 
 body {
   margin: 0;
+}
+
+section {
+    margin-left: 20em;
 }
