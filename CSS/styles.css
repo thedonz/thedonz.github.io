@@ -1,0 +1,44 @@
+
+footer {
+  text-align: center
+}
+
+.sidebar {
+  float: left;
+}
+
+header {
+  background-image:url(/header_blog.jpg);
+  height: 400px;
+  background-size: cover;
+}
+
+.main {
+  margin-left: 12em;
+}
+
+
+
+article {
+  margin-left: 20em;
+}
+
+aside {
+  /* float: left; */
+  width: 25%;
+  margin-top: -5em;
+}
+
+div {
+  max-width: 1060px;
+  
+}
+
+aside img {
+  border-radius: 50%;
+  border: white solid 4pt
+}
+
+body {
+  margin: 0;
+}
