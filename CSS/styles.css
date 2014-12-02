@@ -5,6 +5,7 @@ footer {
 
 .sidebar {
   float: left;
+  margin-left: 4em;
 }
 
 header {
@@ -15,6 +16,9 @@ header {
 
 .main {
   margin-left: 12em;
+  max-width: 1060px;
+  min-width: 900px;
+  margin: 0 auto;
 }
 
 
@@ -28,10 +32,6 @@ aside {
   margin-top: -5em;
 }
 
-div {
-  max-width: 1060px;
-  
-}
 
 aside img {
   border-radius: 50%;
@@ -42,6 +42,6 @@ body {
   margin: 0;
 }
 
-section {
+.main-column {
     margin-left: 20em;
 }
