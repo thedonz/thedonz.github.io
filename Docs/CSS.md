@@ -13,3 +13,5 @@ Here are the styles used for the blog assignment.
 * __max-width__: Keeps the box from expanding beyond this point in pixels.
 
 * __min-width__: Keeps the box from shrinking beyond this point in pixels.
+
+* __background-image:url__: Used to pull in the image for the background of the header container.
