@@ -1,4 +1,3 @@
-
 footer {
   text-align: center;
   margin-top: 20%;
@@ -6,7 +5,10 @@ footer {
 
 .sidebar {
   float: left;
+  width: 20%;
+  margin-top: -5em;
   margin-left: 4em;
+  text-align: center;
 }
 
 header {
@@ -18,23 +20,10 @@ header {
 .main {
   margin-left: 12em;
   max-width: 1060px;
-  min-width: 900px;
+  min-width: 319px;
   margin: 0 auto;
 }
-
-
-
-article {
-}
-
-aside {
-  /* float: left; */
-  width: 20%;
-  margin-top: -5em;
-  text-align: center;
-}
-
-
+  
 aside img {
   border-radius: 50%;
   border: white solid 4pt
@@ -42,8 +31,53 @@ aside img {
 
 body {
   margin: 0;
+  background-color: rgba(227, 219, 126, 0.53);
 }
 
 .main-column {
-    margin-left: 20em;
+  margin-left: 20em;
+}
+
+@media screen and (max-width: 400px) {
+  header{
+    background-image:url(/header-320.jpg);
+    height: 15em;
+  }
+  aside img {
+    height: 80px;
+    border: white solid 3pt;
+    margin-top: 1em;
+  }
+  .sidebar h2 {
+    margin-top: 0em
+  }
+  .sidebar p {
+    margin-top: -1em;
+  }
+  .main {
+    padding: 0 6% 0 6%;
+    font-size: 130%;
+    margin-right: -8pt;
+    margin-left: -8pt;
+  }
+  .sidebar {
+    margin-top: -2.5em;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+  }
+  article h1 {
+    margin-top: 3%;
+  }
+  article {
+    background-color: white;
+    padding: 5px 0 5px 11px;
+    margin-bottom: 14%;
+    
+  }
+  .main-column {
+    margin-left: 0;
+  }
 }
