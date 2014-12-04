@@ -38,8 +38,8 @@ body {
   margin-left: 19em;
 }
 
-/*
-@media screen and (max-width: 481px) {
+
+@media only screen and (max-width: 481px) {
   header{
     background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header_blog.jpg);
     height: 9em;
@@ -74,11 +74,11 @@ body {
   
   }
 }
-*/
+
 
 /* Small Screen Size */
 
-@media screen and (max-width: 321px) {
+@media only screen and (max-width: 321px) {
   header{
     background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header-320.jpg);
     height: 11em;
