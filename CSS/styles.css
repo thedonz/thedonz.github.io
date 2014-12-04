@@ -35,13 +35,53 @@ body {
 }
 
 .main-column {
-  margin-left: 20em;
+  margin-left: 19em;
 }
 
-@media screen and (max-width: 400px) {
+/*
+@media screen and (max-width: 481px) {
+  header{
+    background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header_blog.jpg);
+    height: 9em;
+  }
+  aside img {
+    height: 80px;
+    border: white solid 3pt;
+    margin-top: -3em;
+    margin-left: 2em;
+    float: left;
+  }
+  .main {
+    padding: 0 2% 0 2%;
+    font-size: 100%;
+    margin-right: -8pt;
+    margin-left: -4pt;
+  }
+  .sidebar {
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+  }
+  .sidebar h2 {
+    margin-top: .5em;
+  
+    font-size: 16pt;
+  }
+  .sidebar p {
+    margin-left: 7em;
+  
+  }
+}
+*/
+
+/* Small Screen Size */
+
+@media screen and (max-width: 321px) {
   header{
     background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header-320.jpg);
-    height: 15em;
+    height: 11em;
   }
   aside img {
     height: 80px;
@@ -54,12 +94,12 @@ body {
   .sidebar p {
     margin-top: -1em;
     box-shadow: 10px 10px 5px #888888;
-}
+  }
   .main {
-    padding: 0 6% 0 6%;
-    font-size: 130%;
+    padding: 0 2% 0 2%;
+    font-size: 100%;
     margin-right: -8pt;
-    margin-left: -8pt;
+    margin-left: -4pt;
   }
   .sidebar {
     margin-top: -2.5em;
@@ -80,10 +120,12 @@ body {
     
   }
   .main-column {
-    margin-left: 0;
+    margin-left: 0em;
   }
   .icons nav {
     float: right;
     color: red;
   }
 }
+
+
