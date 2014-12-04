@@ -12,7 +12,7 @@ footer {
 }
 
 header {
-  background-image:url(/header_blog.jpg);
+  background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header_blog.jpg);
   height: 400px;
   background-size: cover;
 }
@@ -40,7 +40,7 @@ body {
 
 @media screen and (max-width: 400px) {
   header{
-    background-image:url(/header-320.jpg);
+    background-image: url(https://dl.dropboxusercontent.com/u/891237/Test/header-320.jpg);
     height: 15em;
   }
   aside img {
@@ -53,7 +53,8 @@ body {
   }
   .sidebar p {
     margin-top: -1em;
-  }
+    box-shadow: 10px 10px 5px #888888;
+}
   .main {
     padding: 0 6% 0 6%;
     font-size: 130%;
