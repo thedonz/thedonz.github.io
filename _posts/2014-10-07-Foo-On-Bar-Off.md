@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Post 5 - OMG Week Three!"
+title: "Foo On, Bar Off!"
 ---
 
 #"Foo On, Bar Off!"

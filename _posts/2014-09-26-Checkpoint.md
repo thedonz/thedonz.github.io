@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Post 3 - Checkpoint: Git-tastic"
+title: "Checkpoint: Git-tastic"
 ---
 
 #Checkpoint: Git-tastic
@@ -16,7 +16,7 @@ As humans, learning new things is not as easy as inputting `CTRL + S`, so repeti
 
 I've come to appreciate many aspects of Git, and as part of our weekend assigment, I'll find out how invaluable it is in software development.
 
-* * * 
+* * *
 
 One of the benefits of attending a program like [The Iron Yard](http://www.theironyard.com/refer), is the connections you make with your classmates. Orlando's first class is full of amazing, interesting and talented people.
 Individuals from all walks of life, each with their own unique talents and skills; all eager to learn and help each other learn.
