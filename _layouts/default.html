@@ -17,13 +17,13 @@
       </aside>
       <!-- Main Body-->
       <section class="main-column">
-
-        <!-- HTML for separate articles with the {{content}} tag for each??? -->
-
-        {{content}}
-
-
-
+        <ul>
+          {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
       </section>
     </div>
   </body>
